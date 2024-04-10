@@ -1,8 +1,8 @@
 ## Ola Eu sou Pedro de Brito
 
   
-  - 🔭 Hoje trabalho como analista de testes e especificaçõesõe
-- 🌱 Grduado em Engenharia da Computação
+- 🔭 Hoje trabalho como analista de testes e especificaçõesõe
+- 🌱 Graduado em Engenharia da Computação
 - 📫 Contate-me no email: contato.britto07@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Curiosidade: Nas horas vagas gosto de programar e também trabalho com audio visual.
