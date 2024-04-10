@@ -2,8 +2,8 @@
 
   
   - 🔭 Hoje trabalho como analista de testes e especificaçõesõe
-- 🌱 Cursando Engenharia da Computação
-- 📫 Contate-me no email: pedro.tacebu@gmail.com
+- 🌱 Grduado em Engenharia da Computação
+- 📫 Contate-me no email: contato.britto07@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Curiosidade: Nas horas vagas gosto de programar e também trabalho com audio visual.
 -->
